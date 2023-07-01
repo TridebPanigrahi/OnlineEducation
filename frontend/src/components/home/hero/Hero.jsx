@@ -1,5 +1,6 @@
 import React from 'react'
 import './hero.css'
+import Title from '../../common/title/Title'
 
 const Hero = () => {
   return (
@@ -7,12 +8,13 @@ const Hero = () => {
        <section className='hero'>
             <div className='container'>
                 <div className='row'>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nisi perferendis reprehenderit ipsam vel consequatur rerum pariatur at beatae praesentium amet hic minima reiciendis cumque aliquid aut nihil nobis iure ut, earum totam cum accusamus quaerat. Mollitia, sapiente itaque. Consequatur culpa earum vel quidem? Vitae deleniti eum aliquid nulla provident?</p>
+                    <Title subtitle='WELCOME TO MY SCHOOL' title='Best Online Education'/>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic optio mollitia accusamus soluta saepe alias! Consectetur numquam at dolores</p>
                     <div className="button">
                         <button className='primary-btn'>
                             GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
                         </button>
-                        <button className='primary-btn'>
+                        <button >
                             VIEW COURSE <i className="fa fa-long-arrow-alt-right"></i>
                         </button>
                     </div>
