@@ -45,3 +45,29 @@
     cursor: pointer;
     box-shadow: 0 5px 25px -2px rgb(0 0 0 /6%);
 }
+
+.awrapper{
+    background-image: url("../assets/ready-back-school.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 35vh;
+    color: #fff;
+    width: 100%;
+}
+.awrapper .box{
+    padding: 70px 0;
+}
+.awrapper i{
+    margin-right: 10px;
+}
+.awrapper h1{
+    font-size: 20px;
+}
+.awrapper h3{
+    font-size: 15px;
+}
+
+@media screen and (max-width:768px) {
+    
+}

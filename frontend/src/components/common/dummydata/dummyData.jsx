@@ -1,7 +1,10 @@
 import React from "react"
-import {GiBookmarklet} from 'react-icons/gi'
+import {GiBookmarklet, GiAchievement} from 'react-icons/gi'
 import {TbCertificate} from 'react-icons/tb'
 import {GrUserExpert} from 'react-icons/gr'
+import {FaUserGraduate, FaLaptopCode} from 'react-icons/fa'
+import {AiOutlineSchedule} from 'react-icons/ai'
+
 
 export const homeAbout = [
     {
@@ -22,4 +25,31 @@ export const homeAbout = [
         title:"Learn with Expert",
         desc:"In order to create an engaging learning experience, the role of learner is essential."
     },
+]
+
+export const awrapper = [
+    {
+        id:1,
+        cover:<FaUserGraduate size={50}/>,
+        title:"Success Stories",
+        result:3000
+    },
+    {
+        id:2,
+        cover:<GiAchievement size={50}/>,
+        title:"Trusted Tutors",
+        result:500
+    },
+    {
+        id:3,
+        cover:<AiOutlineSchedule size={50}/>,
+        title:"Schedules",
+        result:2000
+    },
+    {
+        id:4,
+        cover:<FaLaptopCode size={50}/>,
+        title:"Courses",
+        result:900
+    }
 ]
