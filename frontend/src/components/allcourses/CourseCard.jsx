@@ -14,7 +14,7 @@ const CourseCard = () => {
                         <div className="content flex">
                             <div className="left">
                                 <div className="img">
-                                    <img src={data.cover} alt="" />
+                                    <i>{data.cover}</i>
                                 </div>
                             </div>
                             <div className="text">
