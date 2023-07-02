@@ -53,3 +53,132 @@ export const awrapper = [
         result:900
     }
 ]
+export const coursesCard =[
+    {
+        id:1,
+        cover:"",
+        coursesName:"Introducing to Software Engineering",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Kaushik Dey",
+                totalTime:"50 lectures (190 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:2,
+        cover:"",
+        coursesName:"Enhancing Adobe Photoshop CC 2020 Skills",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Sivam Dubbay",
+                totalTime:"30 lectures (120 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:3,
+        cover:"",
+        coursesName:"HTML, CSS and Javascript for Web Developers",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Akshay Sugandhi",
+                totalTime:"50 lectures (50 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:4,
+        cover:"",
+        coursesName:"Introducing to Programming with Wordpress",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Salini Sethi",
+                totalTime:"20 lectures (20 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:5,
+        cover:"",
+        coursesName:"Introducing to Programming with React JS",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Nilam Pandey",
+                totalTime:"100 lectures (150 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:6,
+        cover:"",
+        coursesName:"Learn Frontend Programming Language",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Tarun Chauhan",
+                totalTime:"200 lectures (300 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:7,
+        cover:"",
+        coursesName:"Introducing to Programming with HTML/CSS",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Ruchika Reddy",
+                totalTime:"20 lectures (50 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:8,
+        cover:"",
+        coursesName:"Introducing to programming with JAVA",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Mahendra Sharma",
+                totalTime:"80 lectures (200 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    {
+        id:9,
+        cover:"",
+        coursesName:"Introducing to Programming with Python",
+        courTeacher:[
+            {
+                dcover:"",
+                name:"by Suman Banarji",
+                totalTime:"100 lectures (200 hrs)",
+            },
+        ],
+        priceAll:"$100 All Courses",
+        pricePer:"$15 per month",
+    },
+    
+]
