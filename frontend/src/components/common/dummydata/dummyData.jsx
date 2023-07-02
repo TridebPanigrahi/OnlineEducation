@@ -22,6 +22,15 @@ import img10 from '../../assets/OnlineCoursesIcons/programming.png'
 import img11 from '../../assets/OnlineCoursesIcons/software-application.png'
 import img12 from '../../assets/OnlineCoursesIcons/ux-design.png'
 
+import avtar1 from '../../assets/Professors/beautiful-mature-businesswoman-writing-clipboard-isolated-white-portrait-senior-business-women-with-clipboard-document-hands.jpg'
+import avtar2 from '../../assets/Professors/close-up-smiley-woman-library.jpg'
+import avtar3 from '../../assets/Professors/medium-shot-smiley-woman-library.jpg'
+import avtar4 from '../../assets/Professors/pleased-young-businessman-wearing-glasses-holding-book-isolated-white-background.jpg'
+import avtar5 from '../../assets/Professors/portrait-female-teacher-white.jpg'
+import avtar6 from '../../assets/Professors/portrait-happy-young-man-eyeglasses.jpg'
+import avtar7 from '../../assets/Professors/young-brunette-woman-sitting-desk.jpg'
+import avtar8 from '../../assets/Professors/young-handsome-man-holding-notebooks-concept-e-learning-courses.jpg'
+
 
 
 export const homeAbout = [
@@ -272,5 +281,56 @@ export const onlineCourse = [
         cover:img10,
         sub:"Web Management",
         val:"19 Courses"
+    },
+]
+
+export const team = [
+    {
+        id:1,
+        cover:avtar1,
+        name:"Ph.D Savana Roy",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:2,
+        cover:avtar2,
+        name:"Ph.D Kargola Wooden",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:3,
+        cover:avtar3,
+        name:"Ph.D lyka Hanzen",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:4,
+        cover:avtar4,
+        name:"Ph.D Arrian Molises",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:5,
+        cover:avtar5,
+        name:"Ph.D Prety Pathakar",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:6,
+        cover:avtar6,
+        name:"Ph.D Sanvest Ghusee",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:7,
+        cover:avtar7,
+        name:"Ph.D Malaya Mathod",
+        work:"Developer and lead instructor",
+    },
+    {
+        id:8,
+        cover:avtar8,
+        name:"Ph.D Dumstain Jun",
+        work:"Developer and lead instructor",
     },
 ]

@@ -5,6 +5,9 @@ import Home from './components/home/Home'
 import About from './components/about/About'
 import CourseHome from './components/allcourses/CourseHome'
 import Team from './components/team/Team'
+import Pricing from './components/pricing/Pricing'
+import Journal from './components/journal/Journal'
+import Contact from './components/contact/Contact'
 
 const App = () => {
   return (
@@ -16,6 +19,9 @@ const App = () => {
         <Route path='/about' exact component={About}/>
         <Route path='/courses' exact component={CourseHome}/>
         <Route path='/team' exact component={Team}/>
+        <Route path='/pricing' exact component={Pricing}/>
+        <Route path='/journal' exact component={Journal}/>
+        <Route path='/contact' exact component={Contact}/>
       </Switch>
     </Router>
     </>
