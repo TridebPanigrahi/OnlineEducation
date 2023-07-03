@@ -30,6 +30,13 @@ import avtar5 from '../../assets/Professors/portrait-female-teacher-white-min.jp
 import avtar6 from '../../assets/Professors/portrait-happy-young-man-eyeglasses-min.jpg'
 import avtar7 from '../../assets/Professors/young-brunette-woman-sitting-desk-min.jpg'
 import avtar8 from '../../assets/Professors/young-handsome-man-holding-notebooks-concept-e-learning-courses-min.jpg'
+import stu1 from '../../assets/Matrimonial/student1.avif'
+import stu2 from '../../assets/Matrimonial/student2.avif'
+import stu3 from '../../assets/Matrimonial/student3.avif'
+import stu4 from '../../assets/Matrimonial/student4.avif'
+import stu5 from '../../assets/Matrimonial/student5.avif'
+import stu6 from '../../assets/Matrimonial/student6.avif'
+
 
 
 
@@ -333,4 +340,50 @@ export const team = [
         name:"Ph.D Dumstain Jun",
         work:"Developer and lead instructor",
     },
+]
+
+export const testimonial =[
+    {
+        id:1,
+        cover:stu1,
+        desg:"Marketing Manager",
+        name:"Arisal Kalvish",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+    {
+        id:2,
+        cover:stu2,
+        desg:"Marketing Manager",
+        name:"Makley Sakml",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+    {
+        id:3,
+        cover:stu3,
+        desg:"Marketing Manager",
+        name:"Yarnden Chun",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+    {
+        id:4,
+        cover:stu4,
+        desg:"Marketing Manager",
+        name:"Custabhi Laxui",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+    {
+        id:5,
+        cover:stu5,
+        desg:"Marketing Manager",
+        name:"Lem Kryjohn",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+    {
+        id:6,
+        cover:stu6,
+        desg:"Marketing Manager",
+        name:"Dulopy Cubimk",
+        quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },
+
 ]
