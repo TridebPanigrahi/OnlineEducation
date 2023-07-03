@@ -22,14 +22,14 @@ import img10 from '../../assets/OnlineCoursesIcons/programming.png'
 import img11 from '../../assets/OnlineCoursesIcons/software-application.png'
 import img12 from '../../assets/OnlineCoursesIcons/ux-design.png'
 
-import avtar1 from '../../assets/Professors/beautiful-mature-businesswoman-writing-clipboard-isolated-white-portrait-senior-business-women-with-clipboard-document-hands.jpg'
-import avtar2 from '../../assets/Professors/close-up-smiley-woman-library.jpg'
-import avtar3 from '../../assets/Professors/medium-shot-smiley-woman-library.jpg'
-import avtar4 from '../../assets/Professors/pleased-young-businessman-wearing-glasses-holding-book-isolated-white-background.jpg'
-import avtar5 from '../../assets/Professors/portrait-female-teacher-white.jpg'
-import avtar6 from '../../assets/Professors/portrait-happy-young-man-eyeglasses.jpg'
-import avtar7 from '../../assets/Professors/young-brunette-woman-sitting-desk.jpg'
-import avtar8 from '../../assets/Professors/young-handsome-man-holding-notebooks-concept-e-learning-courses.jpg'
+import avtar1 from '../../assets/Professors/beautiful-mature-businesswoman-writing-clipboard-isolated-white-portrait-senior-business-women-with-clipboard-document-hands-min.jpg'
+import avtar2 from '../../assets/Professors/close-up-smiley-woman-library-min.jpg'
+import avtar3 from '../../assets/Professors/medium-shot-smiley-woman-library-min.jpg'
+import avtar4 from '../../assets/Professors/pleased-young-businessman-wearing-glasses-holding-book-isolated-white-background-min.jpg'
+import avtar5 from '../../assets/Professors/portrait-female-teacher-white-min.jpg'
+import avtar6 from '../../assets/Professors/portrait-happy-young-man-eyeglasses-min.jpg'
+import avtar7 from '../../assets/Professors/young-brunette-woman-sitting-desk-min.jpg'
+import avtar8 from '../../assets/Professors/young-handsome-man-holding-notebooks-concept-e-learning-courses-min.jpg'
 
 
 

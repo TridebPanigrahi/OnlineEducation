@@ -1,6 +1,7 @@
 import React from "react";
 import Title from "../common/title/Title";
 import { coursesCard } from "../common/dummydata/dummyData";
+import OnlineCourses from "../allcourses/OnlineCourses";
 
 const HAbout = () => {
   return (
@@ -61,6 +62,7 @@ const HAbout = () => {
           </div>
         </div>
       </section>
+      <OnlineCourses/>
     </>
   );
 };

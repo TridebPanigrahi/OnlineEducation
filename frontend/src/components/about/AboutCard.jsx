@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "../common/title/Title";
-import AboutBgIMG from "../assets/young-pretty-student-woman-with-backpack-exercise-books-isolated-white-wall.jpg"
+import AboutBgIMG from "../assets/young-pretty-student-woman-with-backpack-exercise-books-isolated-white-wall-min.jpg"
 import { homeAbout } from "../common/dummydata/dummyData";
 import "./about.css";
 import AWrapper from "./AWrapper";
