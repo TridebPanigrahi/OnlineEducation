@@ -45,6 +45,14 @@ import stu4 from "../../assets/Matrimonial/student4.avif";
 import stu5 from "../../assets/Matrimonial/student5.avif";
 import stu6 from "../../assets/Matrimonial/student6.avif";
 
+
+import blogimg1 from "../../assets/Blog/blogimg1.jpg"
+import blogimg2 from "../../assets/Blog/blogimg2.jpg"
+import blogimg3 from "../../assets/Blog/blogimg3.jpg"
+import blogimg4 from "../../assets/Blog/blogimg4.jpg"
+import blogimg5 from "../../assets/Blog/blogimg5.jpg"
+import blogimg6 from "../../assets/Blog/blogimg6.jpg"
+
 export const homeAbout = [
   {
     id: 1,
@@ -476,3 +484,60 @@ export const faq = [
     desc: "You're only as good as your last sale, so you put your all into something and just hope that from that you can get your next job",
   },
 ];
+
+export const blog =[
+    {
+        id:1,
+        cover:blogimg1,
+        type:"Admin",
+        date:"JAN 25, 2022",
+        com:"8 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+    {
+        id:2,
+        cover:blogimg2,
+        type:"Admin",
+        date:"JUL 15 2022",
+        com:"4 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+    {
+        id:3,
+        cover:blogimg3,
+        type:"Admin",
+        date:"OCT 11, 2022",
+        com:"3 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+    {
+        id:4,
+        cover:blogimg4,
+        type:"Admin",
+        date:"APR 20, 2023",
+        com:"5 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+    {
+        id:5,
+        cover:blogimg5,
+        type:"Admin",
+        date:"MEY 28, 2023",
+        com:"6 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+    {
+        id:6,
+        cover:blogimg6,
+        type:"Admin",
+        date:"JUN 4, 2023",
+        com:"9 COMMENTS",
+        agenda:"Build Your Dream Software & Engineering Career",
+        desc:" Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. ",
+    },
+]
