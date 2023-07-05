@@ -4,7 +4,7 @@ import './contact.css'
 
 const Contact = () => {
 
-  const map='"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d61359.63029235907!2d77.6035187631763!3d13.010474708997771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1688575769013!5m2!1sen!2sin"'
+  const map='https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d61359.63029235907!2d77.6035187631763!3d13.010474708997771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1688575769013!5m2!1sen!2sin'
 
   return (
     <>
