@@ -8,6 +8,7 @@ import Team from './components/team/Team'
 import Pricing from './components/pricing/Pricing'
 import Journal from './components/journal/Journal'
 import Contact from './components/contact/Contact'
+import Footer from './components/common/footer/Footer'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
         <Route path='/journal' exact component={Journal}/>
         <Route path='/contact' exact component={Contact}/>
       </Switch>
+      <Footer/>
     </Router>
     </>
   )
